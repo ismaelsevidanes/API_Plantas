@@ -1,0 +1,11 @@
+com.plantas.api
+com.plantas.api.configuracion
+com.plantas.api.configuracion.jwt
+com.plantas.api.controlador
+com.plantas.api.dtos
+com.plantas.api.dtos.requests
+com.plantas.api.dtos.responses
+com.plantas.api.entidades
+com.plantas.api.repositorios
+com.plantas.api.servicios
+com.plantas.api.serviciosImpl
