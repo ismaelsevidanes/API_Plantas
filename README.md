@@ -6,6 +6,7 @@
 Este proyecto es una aplicación desarrollada en Sring un framework de java. Permite gestionar los usuarios, productos y las ventas de la aplicación del sector de las plantas. Posibilita y facilita
 la obtención de los filtros requeridos en los diversos productos o compras.
 
+
 ---
 
 ### Características Principales
